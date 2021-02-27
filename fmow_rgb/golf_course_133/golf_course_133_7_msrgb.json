@@ -1,0 +1,57 @@
+{
+  "img_filename": "golf_course_133_7_msrgb.jpg",
+  "bounding_boxes": [
+    {
+      "category": "golf_course",
+      "ID": 22838,
+      "visible": "True",
+      "box": [
+        9,
+        3,
+        201,
+        133
+      ]
+    }
+  ],
+  "gsd": 2.1978392601,
+  "img_width": 227,
+  "img_height": 141,
+  "mean_pixel_height": 1.9819293616985e-05,
+  "mean_pixel_width": 1.9786680264317e-05,
+  "utm": "30U",
+  "country_code": "GBR",
+  "cloud_cover": 0,
+  "timestamp": "2016-04-20T11:10:23Z",
+  "scan_direction": "Forward",
+  "approximate_wavelengths": [
+    661,
+    545,
+    477
+  ],
+  "pan_resolution_dbl": 0.548804521561,
+  "pan_resolution_start_dbl": 0.552192091942,
+  "pan_resolution_end_dbl": 0.545773804188,
+  "pan_resolution_min_dbl": 0.545773804188,
+  "pan_resolution_max_dbl": 0.552192091942,
+  "multi_resolution_dbl": 2.1978392601,
+  "multi_resolution_start_dbl": 2.21134352684,
+  "multi_resolution_end_dbl": 2.18527722359,
+  "multi_resolution_min_dbl": 2.18527722359,
+  "multi_resolution_max_dbl": 2.21134352684,
+  "target_azimuth_dbl": 344.568084717,
+  "target_azimuth_start_dbl": 344.559020996,
+  "target_azimuth_end_dbl": 344.578521729,
+  "target_azimuth_min_dbl": 344.559020996,
+  "target_azimuth_max_dbl": 344.578521729,
+  "sun_azimuth_dbl": 157.332183838,
+  "sun_azimuth_min_dbl": 157.281311035,
+  "sun_azimuth_max_dbl": 157.385940552,
+  "sun_elevation_dbl": 48.4674301147,
+  "sun_elevation_min_dbl": 48.3391151428,
+  "sun_elevation_max_dbl": 48.5891075134,
+  "off_nadir_angle_dbl": 24.0405826569,
+  "off_nadir_angle_start_dbl": 24.4568367004,
+  "off_nadir_angle_end_dbl": 23.6481170654,
+  "off_nadir_angle_min_dbl": 23.6481170654,
+  "off_nadir_angle_max_dbl": 24.4568367004
+}

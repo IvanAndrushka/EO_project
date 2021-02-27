@@ -1,0 +1,57 @@
+{
+  "img_filename": "crop_field_1057_0_msrgb.jpg",
+  "bounding_boxes": [
+    {
+      "category": "crop_field",
+      "ID": 23970,
+      "visible": "True",
+      "box": [
+        103,
+        98,
+        12,
+        21
+      ]
+    }
+  ],
+  "gsd": 2.17211747169,
+  "img_width": 232,
+  "img_height": 226,
+  "mean_pixel_height": 1.9383177433624e-05,
+  "mean_pixel_width": 1.9360245689699e-05,
+  "utm": "51P",
+  "country_code": "PHL",
+  "cloud_cover": 8,
+  "timestamp": "2010-01-28T02:30:20Z",
+  "scan_direction": "Forward",
+  "approximate_wavelengths": [
+    661,
+    545,
+    477
+  ],
+  "pan_resolution_dbl": 0.541237950325,
+  "pan_resolution_start_dbl": 0.536968648434,
+  "pan_resolution_end_dbl": 0.54510653019,
+  "pan_resolution_min_dbl": 0.536968648434,
+  "pan_resolution_max_dbl": 0.54510653019,
+  "multi_resolution_dbl": 2.17211747169,
+  "multi_resolution_start_dbl": 2.15454792976,
+  "multi_resolution_end_dbl": 2.18766188622,
+  "multi_resolution_min_dbl": 2.15454792976,
+  "multi_resolution_max_dbl": 2.18766188622,
+  "target_azimuth_dbl": 214.895706177,
+  "target_azimuth_start_dbl": 217.084533691,
+  "target_azimuth_end_dbl": 213.099563599,
+  "target_azimuth_min_dbl": 213.099563599,
+  "target_azimuth_max_dbl": 217.084533691,
+  "sun_azimuth_dbl": 142.739593506,
+  "sun_azimuth_min_dbl": 142.547180176,
+  "sun_azimuth_max_dbl": 142.966430664,
+  "sun_elevation_dbl": 49.9367752075,
+  "sun_elevation_min_dbl": 49.6556663513,
+  "sun_elevation_max_dbl": 50.1725845337,
+  "off_nadir_angle_dbl": 23.6283035278,
+  "off_nadir_angle_start_dbl": 23.055973053,
+  "off_nadir_angle_end_dbl": 24.1249790192,
+  "off_nadir_angle_min_dbl": 23.055973053,
+  "off_nadir_angle_max_dbl": 24.1249790192
+}
