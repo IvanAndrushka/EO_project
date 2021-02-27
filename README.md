@@ -9,3 +9,7 @@ The folder gee_image_downloads is an auxiliary folder that stores rgb images tha
 Here is an example using an image of the city I live in :)
 
 ![Screenshot](classifier_screenshot_27.02.2021.png)
+
+Green squares represent regions classified as crop fields.
+Blue squares represent golf fields.
+Red squares represent regions of interest that couldn't be classified as either crop or golf fields with enough certainty.
